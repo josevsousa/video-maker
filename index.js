@@ -11,7 +11,7 @@ function start(){
     }
 
     function askAndReturnPrefix() {
-        const prefixes = ['jose', 'aldeir', 'caue', 'Bela']
+        const prefixes = ['jose', 'aldeir', 'caue', 'Bela ']
         const selectPrefixIndex = readline.keyInSelect(prefixes, 'Choose one options: ')
         const selectPrefixTest = prefixes[selectPrefixIndex]
         
@@ -20,7 +20,5 @@ function start(){
 
     console.log(content)
 }
-
-
 
 start()
