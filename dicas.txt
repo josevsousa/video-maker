@@ -1,0 +1,5 @@
+// modulo do algorithmia
+npm i algorithmia
+
+// Setence Boundary Detection
+npm i sdb

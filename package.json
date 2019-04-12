@@ -17,7 +17,10 @@
   },
   "homepage": "https://github.com/josevsousa/video-maker#readme",
   "dependencies": {
+    "algorithmia": "^0.3.10",
     "imdb-scrapper": "^2.2.0",
-    "readline-sync": "^1.4.9"
+    "readline-sync": "^1.4.9",
+    "sbd": "^1.0.15",
+    "sdb": "^0.2.1"
   }
 }
